@@ -1,0 +1,1 @@
+<p>Copyright © 2012. Designed by <a href="#">Quang</a></p>

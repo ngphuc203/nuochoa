@@ -1,0 +1,15 @@
+truy cập trang quản trị
+http://localhost/webnuochoa/admin
+-------------
+
+
+kết nối csdl
+dbconnect.php
+-------------
+
+
+
+đường dẫn tuyệt đối cần thay đổi nếu đổi tên  project
+
+
+backend/layouts/sidebar.php
